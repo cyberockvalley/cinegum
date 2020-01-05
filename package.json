@@ -1,0 +1,19 @@
+{
+  "name": "cinegum",
+  "version": "0.1.5",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyberockvalley/cinegum.git"
+  },
+  "author": "jinminetics",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyberockvalley/cinegum/issues"
+  },
+  "homepage": "https://github.com/cyberockvalley/cinegum#readme"
+}
